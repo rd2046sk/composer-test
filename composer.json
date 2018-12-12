@@ -2,11 +2,15 @@
     "name": "kangsun/composer-test",
     "description": "this is a compser test pro",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "kangsun",
             "email": "rd2046sk@163.com"
         }
     ],
+    "psr-4": { 
+            "Kangsun\Demo\": "src"
+    }
     "require": {}
 }
