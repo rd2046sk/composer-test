@@ -1,0 +1,12 @@
+{
+    "name": "kangsun/composer-test",
+    "description": "this is a compser test pro",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kangsun",
+            "email": "rd2046sk@163.com"
+        }
+    ],
+    "require": {}
+}
