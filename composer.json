@@ -10,7 +10,7 @@
         }
     ],
     "psr-4": { 
-            "Kangsun\Demo\": "src"
-    }
+            "Kangsun\\Demo\\": "src"
+    },
     "require": {}
 }
